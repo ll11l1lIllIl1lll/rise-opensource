@@ -204,7 +204,6 @@ public final class IngameGUI extends GuiIngame {
             renderKeyStrokes();
             renderBPS();
         }
-
         /*
          * New intent cracking method? Idk I have heard of it this might
          * potentially fix this, well it better fix it or I am going to be very mad.
